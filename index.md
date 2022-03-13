@@ -1,4 +1,4 @@
-## Giggamo lets take AI to the next level
+## Giggamo taking AI leaning to the next level
 
 You can use the [editor on GitHub](https://github.com/gigaamo/gigaamo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
