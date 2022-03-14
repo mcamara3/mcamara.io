@@ -1,6 +1,6 @@
-# Improving RNA studies through Machine Learning 
+# **Improving RNA studies through Machine Learning** 
 
-### Content Goes here ***
+### Content Goes here
 
 
 
